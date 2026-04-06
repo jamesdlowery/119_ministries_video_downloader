@@ -111,6 +111,3 @@ Releases follow the convention `vYYYYMMDD` + lowercase letter suffix (e.g. `v202
 
 ---
 
-## License
-
-This project is provided for personal archival use. 119 Ministries content is copyright of 119 Ministries. Please respect their terms of use.
