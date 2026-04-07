@@ -111,3 +111,6 @@ Releases follow the convention `vYYYYMMDD` + lowercase letter suffix (e.g. `v202
 
 ---
 
+## License
+
+MIT — see [`LICENSE`](LICENSE) for details.
